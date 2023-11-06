@@ -3,8 +3,11 @@
     background-image: linear-gradient(to right, #0f0c29, #302b63, #24243e);
 }
 
+.transparent-background{
+    background-color: rgba(0, 0, 0, 0)
+}
+
 #body {
-    height: 30%;
     color: white;
 }
 
